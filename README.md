@@ -1,4 +1,4 @@
-# Core-War
+# Core-Wars
 
 The Core War game appeared in article by Alexander Dewdney published in May 1984 in the Scientic American. The principle of this game
 is extremely simple: two or more computer programs are loaded into the memory of a virtual machine (i.e. of a program that simulates a
